@@ -10,6 +10,6 @@
 - Mesclar 2 tabelas para ficar mais fácil identificar o ID da loja, loja e o que foi vendido;
 - Criar uma pasta chamada 'backup', verificar se já não existe e salvar as planilhas lá;
 - Calcular o indicador para cada loja;
-- Enviar por e-mail para os gerentes, utizando gmail, o indicador de cada loja e as planilhas de forma automatizada;
+- Enviar por e-mail de forma automatizada para os gerentes, utizando gmail, o indicador de cada loja e as planilhas ;
 - Criar ranking para diretoria;
 - Enviar e-mail para diretoria com 2 anexos, ranking do dia e anual.
