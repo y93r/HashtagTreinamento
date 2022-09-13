@@ -13,3 +13,9 @@
 - Enviar por e-mail de forma automatizada para os gerentes, utizando gmail, o indicador de cada loja e as planilhas ;
 - Criar ranking para diretoria;
 - Enviar e-mail para diretoria com 2 anexos, ranking do dia e anual.
+
+###### Projeto 2
+- Neste projeto foi automatizado um processo de busca de 2 produtos em 2 sites diferentes; 
+- Foi definido um preço minímo e máximo e termos banidos para não pegar qualquer item de mesmo nome;
+- Com os resultados obtidos criado uma nova tabela com o nome do produto, preço e link;
+- Enviar por e-mail de forma automatizada a tebela e o anexo.
