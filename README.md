@@ -19,3 +19,8 @@
 - Foi definido um preço minímo e máximo e termos banidos para não pegar qualquer item de mesmo nome;
 - Com os resultados obtidos criado uma nova tabela com o nome do produto, preço e link;
 - Enviar por e-mail de forma automatizada a tebela e o anexo.
+
+###### Programação Orientada a Objeto
+Criando um sistema bancário:
+- Criando classes, métodos e atributos;
+- Encapsulamento, Herança e Polimorfismo.
