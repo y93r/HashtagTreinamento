@@ -24,3 +24,10 @@
 Criando um sistema bancário:
 - Criando classes, métodos e atributos;
 - Encapsulamento, Herança e Polimorfismo.
+
+###### CEP
+Busca de CEP a partir de endereço:
+- O usuário digita o UF, Estado e Logadrouro que deseja obter o CEP;
+- Através do site <https://viacep.com.br/> onde a integração é feita pra obter essa informação;
+- Informação obtida no formato json;
+- Converter para uma tabela usando o pandas.
