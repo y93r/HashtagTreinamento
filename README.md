@@ -28,6 +28,6 @@ Criando um sistema bancário:
 ###### CEP
 Busca de CEP a partir de endereço:
 - O usuário digita o UF, Estado e Logadrouro que deseja obter o CEP;
-- Através do site <https://viacep.com.br/> onde a integração é feita pra obter essa informação;
+- Através do site <https://viacep.com.br/> a integração é feita pra obter essa informação, aqui é usado a biblioteca requests para facilitar as solitações http;
 - Informação obtida no formato json;
 - Converter para uma tabela usando o pandas.
