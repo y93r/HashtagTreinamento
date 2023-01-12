@@ -20,11 +20,6 @@
 - Com os resultados obtidos criado uma nova tabela com o nome do produto, preço e link;
 - Enviar por e-mail de forma automatizada a tebela e o anexo.
 
-###### Programação Orientada a Objeto
-Criando um sistema bancário:
-- Criando classes, métodos e atributos;
-- Encapsulamento, Herança e Polimorfismo.
-
 ###### CEP
 Busca de CEP a partir de endereço:
 - O usuário digita o UF, Estado e Logadrouro que deseja obter o CEP;
