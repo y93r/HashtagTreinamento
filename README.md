@@ -26,3 +26,10 @@ Busca de CEP a partir de endereço:
 - Através do site <https://viacep.com.br/> a integração é feita pra obter essa informação, aqui é usado a biblioteca requests para facilitar as solitações http;
 - Informação obtida no formato json;
 - Converter para uma tabela usando o pandas.
+
+##### sistema_cotacao
+- Criação de uma interface gráfica usando a biblioteca tkinter;
+- Uso do tkcalendar para criar calendários e tkinter.filedialog para selecionar arquivo;
+- Ajustar o layout para ter uma boa aparência;
+- API de Cotações de Moedas no formato json;
+- Uso de funções para pegar a cotação, selecionar arquivo e atualizar cotações.
