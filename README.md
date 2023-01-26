@@ -33,3 +33,14 @@ Busca de CEP a partir de endereço:
 - Ajustar o layout para ter uma boa aparência;
 - API de Cotações de Moedas no formato json;
 - Uso de funções para pegar a cotação, selecionar arquivo e atualizar cotações.
+
+##### rpa_email
+Automatizar a extração de informações de um sistema e envio de um relatório por e-mail
+- Utilização da biblioteca pyautogui;
+- Criar um alerta para não mexer no computador enquanto o código está rodando;
+- Tirar print das imagens dos lugares onde você vai clicar;
+- Entrar no sistema;
+- Entrar em uma aba específica do sistema onde tem o relatório;
+- Exportar o Relatório;
+- Pegar o relatório exportado, tratar e pegar as informações que queremos com pandas;
+- Preencher/Atualizar informações do sistema.
